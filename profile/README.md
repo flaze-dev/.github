@@ -1,0 +1,2 @@
+# Flaze
+Welcome to Flaze
